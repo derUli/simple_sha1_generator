@@ -1,0 +1,5 @@
+dist/*
+work/*
+.settings
+.project
+.buildpath

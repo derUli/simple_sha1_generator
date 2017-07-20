@@ -1,0 +1,13 @@
+{
+	"id": "simple_sha1_generator",
+	"version": "1.0",
+	"description": "Simple SHA1 Generator",
+	"categories": [
+		"sha1",
+		"hash",
+		"admin",
+		"tool",
+		"utility"
+	],
+	"compatible_from": "2017.3.14"
+}
