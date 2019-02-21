@@ -1,6 +1,6 @@
 {
 	"source": "extend",
-	"version": "1.0",
+	"version": "1.1",
 	"embed": false,
 	"controllers": {
 		"SimpleSHA1Generator": "SimpleSHA1Generator.php"
@@ -8,5 +8,6 @@
 	"main_class": "SimpleSHA1Generator",
 	"custom_acl": [
 		"simple_sha1_generator"
-	]
+	],
+	"admin_permission" : "simple_sha1_generator"
 }

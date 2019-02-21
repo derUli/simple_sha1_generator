@@ -1,6 +1,6 @@
 {
 	"id": "simple_sha1_generator",
-	"version": "1.0",
+	"version": "1.1",
 	"description": "Simple SHA1 Generator",
 	"categories": [
 		"sha1",
@@ -9,5 +9,5 @@
 		"tool",
 		"utility"
 	],
-	"compatible_from": "2017.3.14"
+	"compatible_from": "2019.1.3"
 }
